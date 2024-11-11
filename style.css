@@ -577,7 +577,7 @@ a {
 
 .projects__list-item {
   display: grid;
-  grid-template-columns: 45%;
+  /* grid-template-columns: 45%; */
   grid-gap: 4rem;
   margin-bottom: 8rem;
 }
